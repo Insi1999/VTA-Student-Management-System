@@ -1,0 +1,511 @@
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\04.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\05.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\project\18.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\19.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\25.07.2022\25.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\26.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\27.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\project\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\28.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\30.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\31.07.2022\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 1\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 2\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\31.07.2022 - 3\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New N\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\D.Gobikanth JM.22.ICT5.1.0001\Semester - 01\Project\project\proj\01.08.2022 New\project\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe.config
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury.mdf
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\kasthury_log.ldf
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.exe
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\bin\Release\VTA_Interface.pdb
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Form1.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Accounts.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Attendance.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Drop_Outs.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Exam_Details.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Modules_Marks.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.OJT_Details.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Payments.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Registration.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Forms.Student_Enqueries.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Loading.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.log.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.Properties.Resources.resources
+C:\Users\ICT-PC-24\Desktop\Final Project(Group)\Final Project (Group)\Final Project (Group)\VTA_Interface\VTA_Interface\VTA_Interface\obj\Release\VTA_Interface.csproj.GenerateResource.Cache

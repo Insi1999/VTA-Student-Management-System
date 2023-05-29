@@ -1,0 +1,11 @@
+
+
+USER NAME :- VTA (CAPITAL)
+PASSWORD :- root (SMALL LETTERS)
+
+
+EMERGANCY ACCESS 
+------------------
+
+USER NAME :- admin
+PASSWORD :- root
